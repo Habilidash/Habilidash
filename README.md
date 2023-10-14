@@ -11,10 +11,10 @@
   
 
   <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?&color=%23ADFF2F&size=77&center=true&vCenter=true&width=987&height=255&lines=HABILIDASH;¡¡ENCUENTRA+EXACTAMENTE;LO+QUE+QUIERES!!;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?&color=%23ADFF2F&size=77&center=true&vCenter=true&width=987&height=255&lines=HABILIDASH;¡ENCUENTRA+EXACTAMENTE;LO+QUE+QUIERES!;" alt="Headline" />
     </div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b>Acerca De Nosotros</b>
+  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px></picture><b>ACERCA DE NOSOTROS</b>
   <br><br>
 
   - Somos Una plataforma descentralizada donde puedes 
