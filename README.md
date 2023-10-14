@@ -32,7 +32,9 @@
 
   <a href="https://github.com/Habilidash/">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Habilidash&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ADFF2F&icon_color=A5F52A&text_color=FFFFFF&bg_color=0,000000,1F1F1F" width="377"/>
+  <div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=Habilidash&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ADFF2F&icon_color=A5F52A&text_color=FFFFFF&bg_color=0,000000,1F1F1F" width="377" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habilidash&show_icons=true&locale=en&layout=compact&line_height=20&title_color=ADFF2F&icon_color=A5F52A&text_color=FFFFFF&bg_color=0,000000,1F1F1F" width="377"  alt="Habilidash"/>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
