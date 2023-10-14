@@ -7,20 +7,35 @@
   <a href="https://beacons.ai/habilidash">
     <img src="images/Logosinfondo.png" alt="Logo" width="150" height="150">
   </a>
-  <br>
+</div>
   
 
-  <h3 align="center">HABILIDASH</h3>
+  <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?&color=%23ADFF2F&size=77&center=true&vCenter=true&width=987&height=255&lines=HABILIDASH;¡¡ENCUENTRA+EXACTAMENTE;LO+QUE+QUIERES!!;" alt="Headline" />
+    </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b>Acerca De Nosotros</b>
+  <br><br>
 
-  <p align="center">
-    Una plataforma descentralizada donde puedes ofrecer tus servicios y encontrar exactamente lo que necesitas, eliminando intermediarios.
-    <!-- <br />
-    <br />
-    <br />
-    <br />
-    
-  <!-- </p>
-</div> --> 
+  - Somos Una plataforma descentralizada donde puedes 
+    ofrecer tus servicios y encontrar exactamente 
+    lo que necesitas, eliminando intermediarios.
+
+  - En nosotros tambien encontraras una forma de 
+    darle utilidad a tu token de liquidez.
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+  
+
+  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadisticas de Github </b> 
+
+  <a href="https://github.com/Habilidash/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Habilidash&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ADFF2F&icon_color=A5F52A&text_color=FFFFFF&bg_color=0,000000,1F1F1F" width="377"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=ADFF2F&icon_color=A5F52A&text_color=FFFFFF&bg_color=0,000000,1F1F1F" width="377"  alt="Habilidash"/>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  
 
 
 
